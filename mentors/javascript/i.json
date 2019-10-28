@@ -6,5 +6,13 @@
     "link_url": null,
     "avatar_url": null,
     "bio": "I love JavaScript for it's flexibility and fast-paced community. I've written and maintained quite a bit of Node and browser oriented Javascript projects, both personally and professionally."
+  },
+   {
+    "github_username": "iampeterbanjo",
+    "name": "Peter Banjo",
+    "link_text": "Website",
+    "link_url": "https://iampeterbanjo.com",
+    "avatar_url": null,
+    "bio": "I'm a full-stack JavaScript developer based in the UK. I love learning and I'm happy to share what I know and learn from others."
   }
 ]
